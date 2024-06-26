@@ -8,4 +8,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 template on vite for hw
+
 pages works on github actions
+steps:
+
+
+npm install
+
+npm install --save-dev gh-pages
+
+npm run build
+
+npm run deploy
